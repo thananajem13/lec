@@ -1,0 +1,20 @@
+.dropdown-menu{
+    height:200px;
+}
+.content-img{
+    height: 200px;
+}
+.pop-up-menu{
+    background: rgba(0,0,0,0.5);
+}
+.modal-body p {
+    word-break: break-word;
+} 
+/* Important part */
+.modal-dialog{
+    overflow-y: initial !important
+}
+.modal-body{
+    height: 80vh;
+    overflow-y: auto;
+}
